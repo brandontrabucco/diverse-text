@@ -8,3 +8,6 @@ Han Guo, Brandon Trabucco, So Yeon (Tiffany) Min
 https://colab.research.google.com/drive/144OzF2g7NDLqKHUtVdD9yHfHImF87DB5?usp=sharing
 
 2. Generate model outputs using 
+```
+python generate_samples.py
+```
